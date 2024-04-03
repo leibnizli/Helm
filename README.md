@@ -37,3 +37,7 @@ You can also quickly preview the modified hosts effect. Just press the shortcut 
 * `Command + +` : Make Text Bigger
 * `Command + 0` : Make Text Normal Size
 * `Command + -` : Make Text Smaller
+
+## Similar product
+
+[Gas Mask](https://github.com/2ndalpha/gasmask)
