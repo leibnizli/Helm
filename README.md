@@ -6,7 +6,7 @@ You can set whether to transparent the title bar in the preferences (`⌘,`), an
 
 Helm develops in swift.
 
-![helm](https://github.com/leibnizli/Helm/assets/1193966/79e0641e-c107-4510-a2c3-e8def0d644c4)
+![helm](https://github.com/user-attachments/assets/c4a79e5d-e094-422b-8624-f4588eb4c75d)
 
 ## Install
 
